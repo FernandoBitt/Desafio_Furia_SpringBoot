@@ -1,0 +1,16 @@
+### Insere Usuario
+
+POST http://localhost:8080/usuario
+Content-Type: application/json
+
+{
+    "login" : "teste",
+    "password" : "teste",
+    "nome" : "teste123",
+    "endereco" : "Rua teste",
+    "CPF" : 123456789,
+    "instagram" : "teste.instagram",
+    "twitter" : "teste.twitter",
+    "telefone" : 999999999
+
+}
