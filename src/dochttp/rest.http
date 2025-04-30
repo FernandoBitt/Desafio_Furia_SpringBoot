@@ -6,9 +6,10 @@ Content-Type: application/json
 {
     "login" : "teste",
     "password" : "teste",
+    "email" : "email@teste.com",
     "nome" : "teste123",
     "endereco" : "Rua teste",
-    "CPF" : 123456789,
+    "cpf" : 123,
     "instagram" : "teste.instagram",
     "twitter" : "teste.twitter",
     "telefone" : 999999999
