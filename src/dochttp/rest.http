@@ -11,7 +11,7 @@ Content-Type: application/json
     "endereco" : "Rua teste",
     "cpf" : 123,
     "instagram" : "teste.instagram",
-    "twitter" : "teste.twitter",
+    "x" : "teste.x",
     "telefone" : 999999999
 
 }

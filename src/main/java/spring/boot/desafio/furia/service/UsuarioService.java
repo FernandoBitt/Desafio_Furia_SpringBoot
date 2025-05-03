@@ -24,7 +24,7 @@ public class UsuarioService {
         usuario.setEndereco(dto.getEndereco());
         usuario.setCPF(dto.getCPF());
         usuario.setInstagram(dto.getInstagram());
-        usuario.setTwitter(dto.getTwitter());
+        usuario.setX(dto.getX());
         usuario.setTelefone(dto.getTelefone());
 
         return usuarioRepository.save(usuario);

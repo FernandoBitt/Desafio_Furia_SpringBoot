@@ -28,7 +28,7 @@ public class Usuario {
     private String endereco;
     private long CPF;
     private String instagram;
-    private String twitter;
+    private String x;
     private long telefone;
 
 }
